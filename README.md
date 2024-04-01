@@ -7,7 +7,7 @@ Full Stack Web developer and Ai Engineer
 Greetings, I'm Ali Ashraf, a Full Stack Developer and AI Engineer, driven by an insatiable curiosity for technology and a passion for crafting innovative solutions. With a robust background in both web development and artificial intelligence, I bring a unique blend of skills to the table.
 
 *   🌍  I'm based in Egypt
-*   🖥️  See my portfolio at [My CV]([http://docs.google.com/document/d/1VUGM5zbk91XKuf-coRwXntQwkfy87UGy/edit?usp=sharing&ouid=107543783695258957925&rtpof=true&sd=true](https://drive.google.com/file/d/1DhuaNKDEp_suHcjj4jGkBVeStVXo-JOM/view?usp=sharing))
+*   🖥️  See my portfolio at [My CV](https://drive.google.com/file/d/1DhuaNKDEp_suHcjj4jGkBVeStVXo-JOM/view?usp=sharing)
 *   ✉️  You can contact me at [aliashrafali770@gmail.com](mailto:aliashrafali770@gmail.com)
   ### Skills
 <p align="left">
